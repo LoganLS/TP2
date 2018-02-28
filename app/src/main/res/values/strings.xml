@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TP2 LE SAUX Logan</string>
+    <string name="boutonSuivant">Aller sur l\'activité suivante</string>
+    <string name="boutonRetour">Revenir à l\'activité précédente</string>
+</resources>
